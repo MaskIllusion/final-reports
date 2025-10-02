@@ -31,12 +31,12 @@
 
 ## 📁 Репозитории проекта
 **Основой Проект** [My First Project](https://github.com/MaskIllusion/my-first-project)
-**Задание 1:** [Репорт 1](https://github.com/MaskIllusion/my-first-project/blob/main/reports/01-preparation-report.md)
-**Задание 2:** [Репорт 2](https://github.com/MaskIllusion/my-first-project/blob/main/reports/02-local-repo-report.md) 
-**Задание 3:** [Репорт 3](https://github.com/MaskIllusion/my-first-project/blob/main/reports/03-github-setup-report.md)
-**Задание 4:** [Репорт 4](https://github.com/MaskIllusion/my-first-project/blob/main/reports/04-teamwork-report.md)
-**Задание 5:** [Репорт 5](https://github.com/MaskIllusion/my-first-project/blob/main/reports/05-merge-report.md)
-**Задание 6:** [Репорт 6](https://github.com/MaskIllusion/my-first-project/blob/main/reports/06-final-report.md)
+1. **Задание 1:** [Отчет 1 - Подготовка](https://github.com/MaskIllusion/my-first-project/blob/main/reports/01-preparation-report.md)
+2. **Задание 2:** [Отчет 2 - Локальный репозиторий](https://github.com/MaskIllusion/my-first-project/blob/main/reports/02-local-repo-report.md)
+3. **Задание 3:** [Отчет 3 - Настройка GitHub](https://github.com/MaskIllusion/my-first-project/blob/main/reports/03-github-setup-report.md)
+4. **Задание 4:** [Отчет 4 - Командная работа](https://github.com/MaskIllusion/my-first-project/blob/main/reports/04-teamwork-report.md)
+5. **Задание 5:** [Отчет 5 - Слияние](https://github.com/MaskIllusion/my-first-project/blob/main/reports/05-merge-report.md)
+6. **Задание 6:** [Отчет 6 - Финальный отчет](https://github.com/MaskIllusion/my-first-project/blob/main/reports/06-final-report.md)
 
 ## 🛠️ Технологии и инструменты
 - **Система контроля версий:** Git 2.51.0
