@@ -30,7 +30,7 @@
 - Изучение процессов слияния и разрешения конфликтов
 
 ## 📁 Репозитории проекта
-[My First Project](https://github.com/MaskIllusion/my-first-project)
+**Основой Проект** [My First Project](https://github.com/MaskIllusion/my-first-project)
 **Задание 1:** [Репорт 1](https://github.com/MaskIllusion/my-first-project/blob/main/reports/01-preparation-report.md)
 **Задание 2:** [Репорт 2](https://github.com/MaskIllusion/my-first-project/blob/main/reports/02-local-repo-report.md) 
 **Задание 3:** [Репорт 3](https://github.com/MaskIllusion/my-first-project/blob/main/reports/03-github-setup-report.md)
